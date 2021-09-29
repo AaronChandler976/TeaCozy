@@ -15,7 +15,7 @@ Sample website for Tea Cozy, a fictional tea shop, for practice with responsive 
 - GitHub
 
 ## Screenshots
-![Website Screenshot](./resources/images/TeaCozy_screenshot.jpg)
+![Website Screenshot](./resources/images/TeaCozy_screenshot.JPG)
 
 ## Features
 - Responsive design
